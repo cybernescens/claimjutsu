@@ -1,0 +1,151 @@
+ADDENDUM      .  COUNTIES INCLUDED IN 2011 LOCALITIES. (ALPHABETICALLY BY STATE AND LOCALITY NAME WITHIN STATE)
+
+CarrierLocality        State                Fee Schedule Area                                 Counties
+
+ 10102    00   ALABAMA                STATEWIDE                      ALL COUNTIES
+
+ 00831    01   ALASKA                 STATEWIDE                      ALL COUNTIES
+
+ 03102    00   ARIZONA                STATEWIDE                      ALL COUNTIES
+
+ 00520    13   ARKANSAS               STATEWIDE                      ALL COUNTIES
+
+ 01192    26   CALIFORNIA             ANAHEIM/SANTA ANA              ORANGE
+ 01192    18                          LOS ANGELES                    LOS ANGELES
+ 01102    03                          MARIN/NAPA/SOLANO              MARIN, NAPA, AND SOLANO
+ 01102    07                          OAKLAND/BERKLEY                ALAMEDA AND CONTRA COSTA
+ 01102    05                          SAN FRANCISCO                  SAN FRANCISCO
+ 01102    06                          SAN MATEO                      SAN MATEO
+ 01102    09                          SANTA CLARA                    SANTA CLARA
+ 01192    17                          VENTURA                        VENTURA
+ 01192    99                          REST OF STATE*                 ALL OTHER COUNTIES
+ 01102    99                          REST OF STATE*                 ALL OTHER COUNTIES
+
+ 04102    01   COLORADO               STATEWIDE                      ALL COUNTIES
+
+ 13102    00   CONNECTICUT            STATEWIDE                      ALL COUNTIES
+
+ 12102    01   DELAWARE               STATEWIDE                      ALL COUNTIES
+
+ 12202    01   DISTRICT OF COLUMBIA   DC + MD/VA SUBURBS             DISTRICT OF COLUMBIA; ALEXANDRIA CITY, ARLINGTON, FAIRFAX,
+
+ 09102    03   FLORIDA                FORT LAUDERDALE                BROWARD, COLLIER, INDIAN RIVER, LEE, MARTIN, PALM BEACH, A
+ 09102    04                          MIAMI                          DADE AND MONROE
+ 09102    99                          REST OF STATE                  ALL OTHER COUNTIES
+
+ 10202    01   GEORGIA                ATLANTA                        BUTTS, CHEROKEE, CLAYTON, COBB, DEKALB, DOUGLAS, FAYETTE,
+ 10202    99                          REST OF STATE                  ALL OTHER COUNTIES
+
+ 01202    01   HAWAII/GUAM            STATEWIDE                      ALL COUNTIES
+
+ 05130    00   IDAHO                  STATEWIDE                      ALL COUNTIES
+
+ 00952    16   ILLINOIS               CHICAGO                        COOK
+ 00952    12                          EAST ST. LOUIS                 BOND, CALHOUN, CLINTON, JERSEY, MACOUPIN, MADISON, MONROE,
+ 00952    15                          SUBURBAN CHICAGO               DUPAGE, KANE, LAKE AND WILL
+ 00952    99                          REST OF STATE                  ALL OTHER COUNTIES
+
+ 00630    00   INDIANA                STATEWIDE                      ALL COUNTIES
+
+ 05102    00   IOWA                   STATEWIDE                      ALL COUNTIES
+
+ 05202    00   KANSAS                 STATEWIDE*                     ALL COUNTIES
+
+
+ 15102    00   KENTUCKY               STATEWIDE                      ALL COUNTIES
+
+ 00528    01   LOUISIANA              NEW ORLEANS                    JEFFERSON, ORLEANS, PLAQUEMINES AND ST. BERNARD
+ 00528    99                          REST OF STATE                  ALL OTHER COUNTIES
+
+ 14102    03   MAINE                  SOUTHERN MAINE                 CUMBERLAND AND YORK
+ 14102    99                          REST OF STATE                  ALL OTHER COUNTIES
+
+ 12302    01   MARYLAND               BALTIMORE/SURR. CNTYS          ANNE ARUNDEL, BALTIMORE, BALTIMORE CITY, CARROLL, HARFORD
+ 12302    99                          REST OF STATE                  ALL OTHER COUNTIES EXCEPT MONTGOMERY AND PRINCE GEORGE'S
+
+ 14202    01   MASSACHUSETTS          METROPOLITAN BOSTON            MIDDLESEX, NORFOLK AND SUFFOLK
+ 14202    99                          REST OF STATE                  ALL OTHER COUNTIES
+
+ 00953    01   MICHIGAN               DETROIT                        MACOMB, OAKLAND, WASHTENAW AND WAYNE
+ 00953    99                          REST OF STATE                  ALL OTHER COUNTIES
+
+ 00954    00   MINNESOTA              STATEWIDE                      ALL COUNTIES
+
+ 00512    00   MISSISSIPPI            STATEWIDE                      ALL COUNTIES
+
+ 05302    02   MISSOURI               METROPOLITAN KANSAS CITY       CLAY, JACKSON AND PLATTE
+ 05302    01                          METROPOLITAN ST. LOUIS         JEFFERSON, ST. CHARLES, ST. LOUIS AND ST. LOUIS CITY
+ 05302    99                          REST OF STATE*                 ALL OTHER COUNTIES
+ 05302    99                          REST OF STATE*                 ALL OTHER COUNTIES
+
+ 03202    01   MONTANA                STATEWIDE                      ALL COUNTIES
+
+ 05402    00   NEBRASKA               STATEWIDE                      ALL COUNTIES
+
+ 01302    00   NEVADA                 STATEWIDE                      ALL COUNTIES
+
+ 14302    40   NEW HAMPSHIRE          STATEWIDE                      ALL COUNTIES
+
+ 12402    01   NEW JERSEY             NORTHERN NJ                    BERGEN, ESSEX, HUDSON, HUNTERDON, MIDDLESEX, MORRIS, PASSA
+ 12402    99                          REST OF STATE                  ALL OTHER COUNTIES
+
+ 04202    05   NEW MEXICO             STATEWIDE                      ALL COUNTIES
+
+ 13202    01   NEW YORK               MANHATTAN                      NEW YORK
+ 13202    02                          NYC SUBURBS/LONG ISLAND        BRONX, KINGS, NASSAU, RICHMOND, ROCKLAND, SUFFOLK AND WEST
+ 13202    03                          POUGHKPSIE/N NYC SUBURBS       COLUMBIA, DELAWARE, DUTCHESS, GREENE, ORANGE, PUTNAM, SULL
+ 13292    04                          QUEENS                         QUEENS
+ 13282    99                          REST OF STATE                  ALL OTHER COUNTIES
+
+ 11502    00   NORTH CAROLINA         STATEWIDE                      ALL COUNTIES
+
+ 03302    01   NORTH DAKOTA           STATEWIDE                      ALL COUNTIES
+
+ 15202    00   OHIO                   STATEWIDE                      ALL COUNTIES
+
+ 04302    00   OKLAHOMA               STATEWIDE                      ALL COUNTIES
+
+ 00835    01   OREGON                 PORTLAND                       CLACKAMAS, MULTNOMAH AND WASHINGTON
+ 00835    99                          REST OF STATE                  ALL OTHER COUNTIES
+
+ 12502    01   PENNSYLVANIA           METROPOLITAN PHILADELPHIA      BUCKS, CHESTER, DELAWARE, MONTGOMERY AND PHILADELPHIA
+ 12502    99                          REST OF STATE                  ALL OTHER COUNTIES
+
+ 09202    20   PUERTO RICO            PUERTO RICO                    ALL COUNTY EQUIVALENTS
+
+ 14402    01   RHODE ISLAND           STATEWIDE                      ALL COUNTIES
+
+ 11202    01   SOUTH CAROLINA         STATEWIDE                      ALL COUNTIES
+
+ 03402    02   SOUTH DAKOTA           STATEWIDE                      ALL COUNTIES
+
+ 10302    35   TENNESSEE              STATEWIDE                      ALL COUNTIES
+
+ 04402    31   TEXAS                  AUSTIN                         TRAVIS
+ 04402    20                          BEAUMONT                       JEFFERSON
+ 04402    09                          BRAZORIA                       BRAZORIA
+ 04402    11                          DALLAS                         DALLAS
+ 04402    28                          FORT WORTH                     TARRANT
+ 04402    15                          GALVESTON                      GALVESTON
+ 04402    18                          HOUSTON                        HARRIS
+ 04402    99                          REST OF STATE                  ALL OTHER COUNTIES
+
+ 03502    09   UTAH                   STATEWIDE                      ALL COUNTIES
+
+ 14502    50   VERMONT                STATEWIDE                      ALL COUNTIES
+
+ 09202    50   VIRGIN ISLANDS         VIRGIN ISLANDS                 ALL COUNTY EQUIVALENTS
+
+ 11302    00   VIRGINIA               STATEWIDE                      ALL COUNTIES, EXCEPT ALEXANDRIA CITY, ARLINGTON, FAIRFAX,
+
+ 00836    02   WASHINGTON             SEATTLE (KING CNTY)            KING
+ 00836    99                          REST OF STATE                  ALL OTHER COUNTIES
+
+ 11402    16   WEST VIRGINIA          STATEWIDE                      ALL COUNTIES
+
+ 00951    00   WISCONSIN              STATEWIDE                      ALL COUNTIES
+
+ 03602    21   WYOMING                STATEWIDE                      ALL COUNTIES
+
+
+*  Payment locality is serviced by two carriers.

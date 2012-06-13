@@ -1,0 +1,117 @@
+ContractorLocality      Locality name       2012WK  2012PE  2012MP       
+  10102      00   Alabama                   0.976   0.878   0.472
+  00831      01   Alaska                    1.012   1.067   0.658
+  03102      00   Arizona                   0.976   0.978   1.010
+  00520      13   Arkansas                  0.967   0.865   0.448
+  01192      26   Anaheim/Santa Ana, CA     1.044   1.218   0.673
+  01192      18   Los Angeles, CA           1.036   1.154   0.639
+  01102      03   Marin/Napa/Solano, CA     1.051   1.248   0.454
+  01102      07   Oakland/Berkeley, CA      1.058   1.254   0.513
+  01102      99   Rest of California        1.024   1.085   0.544
+  01192      99   Rest of California        1.024   1.085   0.544
+  01102      05   San Francisco, CA         1.072   1.360   0.513
+  01102      06   San Mateo, CA             1.072   1.354   0.513
+  01102      09   Santa Clara, CA           1.077   1.337   0.513
+  01192      17   Ventura, CA               1.034   1.193   0.602
+  04102      01   Colorado                  0.996   1.004   0.867
+  13102      00   Connecticut               1.024   1.110   1.229
+  12202      01   DC + MD/VA Suburbs        1.049   1.198   1.124
+  12102      01   Delaware                  1.012   1.044   0.669
+  09102      03   Fort Lauderdale, FL       0.994   1.051   1.972
+  09102      04   Miami, FL                 0.995   1.054   2.800
+  09102      99   Rest of Florida           0.982   0.968   1.545
+  10202      01   Atlanta, GA               1.002   1.015   0.944
+  10202      99   Rest of Georgia           0.977   0.898   0.923
+  01202      01   Hawaii/Guam               1.000   1.154   0.696
+  05130      00   Idaho                     0.981   0.894   0.600
+  00952      16   Chicago, IL               1.030   1.051   2.066
+  00952      12   East St. Louis, IL        0.987   0.936   1.924
+  00952      99   Rest of Illinois          0.976   0.909   1.329
+  00952      15   Suburban Chicago, IL      1.025   1.072   1.697
+  00630      00   Indiana                   0.969   0.923   0.610
+  05102      00   Iowa                      0.958   0.887   0.454
+  05202      00   Kansas                    0.962   0.894   0.952
+  15102      00   Kentucky                  0.971   0.871   0.748
+  00528      01   New Orleans, LA           0.983   0.976   0.916
+  00528      99   Rest of Louisiana         0.967   0.877   0.740
+  14102      99   Rest of Maine             0.964   0.904   0.673
+  14102      03   Southern Maine            0.984   1.024   0.673
+  12302      01   Baltimore/Surr. Cntys, MD 1.027   1.097   1.200
+  12302      99   Rest of Maryland          1.011   1.035   0.982
+  14202      01   Metropolitan Boston       1.014   1.149   0.786
+  14202      99   Rest of Massachusetts     1.013   1.062   0.786
+  00953      01   Detroit, MI               1.022   1.023   1.805
+  00953      99   Rest of Michigan          0.991   0.923   1.063
+  00954      00   Minnesota                 0.997   1.012   0.281
+  00512      00   Mississippi               0.962   0.866   0.757
+  05302      02   Metropolitan Kansas City, 0.981   0.953   1.227
+  05302      01   Metropolitan St Louis, MO 0.989   0.964   1.058
+  05302      99   Rest of Missouri          0.956   0.851   1.018
+  03202      01   Montana                   0.945   0.879   1.097
+  05402      00   Nebraska                  0.967   0.904   0.320
+  01302      00   Nevada                    0.996   1.058   1.226
+  14302      40   New Hampshire             0.990   1.044   0.856
+  12402      01   Northern NJ               1.044   1.186   1.040
+  12402      99   Rest of New Jersey        1.021   1.126   1.040
+  04202      05   New Mexico                0.988   0.916   0.992
+  13202      01   Manhattan, NY             1.062   1.162   1.264
+  13202      02   NYC Suburbs/Long I., NY   1.049   1.212   1.434
+  13202      03   Poughkpsie/N NYC Suburbs, 1.011   1.065   1.075
+  13292      04   Queens, NY                1.062   1.195   1.483
+  13282      99   Rest of New York          0.987   0.939   0.559
+  11502      00   North Carolina            0.971   0.927   0.691
+  03302      01   North Dakota              0.966   0.877   0.514
+  15202      00   Ohio                      0.998   0.927   1.234
+  04302      00   Oklahoma                  0.954   0.856   0.730
+  00835      01   Portland, OR              1.005   1.044   0.622
+  00835      99   Rest of Oregon            0.980   0.962   0.622
+  12502      01   Metropolitan Philadelphia 1.014   1.059   1.616
+  12502      99   Rest of Pennsylvania      0.987   0.913   1.117
+  09202      20   Puerto Rico               0.908   0.678   0.248
+  14402      01   Rhode Island              1.017   1.052   1.181
+  11202      01   South Carolina            0.976   0.909   0.517
+  03402      02   South Dakota              0.949   0.880   0.430
+  10302      35   Tennessee                 0.972   0.898   0.520
+  04402      31   Austin, TX                0.984   1.009   0.747
+  04402      20   Beaumont, TX              0.971   0.896   0.918
+  04402      09   Brazoria, TX              1.009   0.987   0.918
+  04402      11   Dallas, TX                1.009   1.017   0.830
+  04402      28   Fort Worth, TX            0.999   0.979   0.822
+  04402      15   Galveston, TX             1.009   0.996   0.980
+  04402      18   Houston, TX               1.009   1.002   0.918
+  04402      99   Rest of Texas             0.979   0.912   0.805
+  03502      09   Utah                      0.971   0.916   1.096
+  14502      50   Vermont                   0.977   1.008   0.551
+  09202      50   Virgin Islands            0.998   1.002   1.005
+  11302      00   Virginia                  0.993   0.977   0.727
+  00836      99   Rest of Washington        0.993   1.012   0.857
+  00836      02   Seattle (King Cnty), WA   1.025   1.144   0.876
+  11402      16   West Virginia             0.963   0.828   1.223
+  00951      00   Wisconsin                 0.987   0.960   0.544
+  03602      21   Wyoming                   0.972   0.899   1.227
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CY 2012 for illustrative purposes only.   CY 2012 GPCI values may change as a result of further study.

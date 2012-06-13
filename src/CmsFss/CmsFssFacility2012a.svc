@@ -1,0 +1,5 @@
+﻿<%@ ServiceHost 
+Language="C#" 
+Debug="true" 
+Service="HealthBus.CmsFss.CmsFssFacility2012a" 
+Factory="Castle.Facilities.WcfIntegration.WindsorServiceHostFactory`1[[Castle.Facilities.WcfIntegration.Rest.RestServiceModel, Castle.Facilities.WcfIntegration]], Castle.Facilities.WcfIntegration" %>

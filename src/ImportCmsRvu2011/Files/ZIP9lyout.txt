@@ -1,0 +1,16 @@
+                        Zip9 Record Layout
+
+
+
+Field Name          Beg. Position     End Position    Length           Comments
+
+State			  1                2            2
+Zip Code		  3		   7            5
+Carrier			  8                12           5
+Pricing Locality 	 13                14           2
+Rural Indicator  	 15		   15           1     blank=urban, R=rural, B=super rural
+Filler			 16                20           5           
+Plus Four Flag 		 21                21           1     0 = no +4 extension, 1 = +4 extension
+Plus Four		 22                25           4
+Filler			 26                75          50
+Year/Quarter		 76                80           5		YYYYQ

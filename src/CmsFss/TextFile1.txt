@@ -1,0 +1,17 @@
+﻿{ feeDetail : {
+	px : "90021",
+	modifier : null,
+	schedules : {
+		{ 
+			name : "regular"
+			desc : "regular flat rate"
+			type : "flat"
+			price : 25.00
+		},
+		{
+			name : "rvu"
+			desc : "cms rvu"
+			type : cms
+
+		}
+	}

@@ -1,0 +1,91 @@
+Carrier,Locality,State,Anes. CF
+10102,00,Alabama,19.88
+00831,01,Alaska,28.85
+03102,00,Arizona,20.84
+00520,13,Arkansas,19.79
+01192,26,"Anaheim/Santa Ana, CA",21.95
+01192,18,"Los Angeles, CA",21.77
+01102,03,"Marin/Napa/Solano, CA",21.45
+01102,07,"Oakland/Berkeley, CA",21.75
+01102,05,"San Francisco, CA",22.29
+01102,06,"San Mateo, CA",22.36
+01102,09,"Santa Clara, CA",22.19
+01192,17,"Ventura, CA",21.65
+01102,99,Rest of California,20.67
+01192,99,Rest of California,20.67
+04102,01,Colorado,20.58
+13102,00,Connecticut,22.21
+12202,01,DC + MD/VA Suburbs,22.59
+12102,01,Delaware,20.75
+09102,03,"Fort Lauderdale, FL",23.24
+09102,04,"Miami, FL",24.96
+09102,99,Rest of Florida,22.17
+10202,01,"Atlanta, GA",20.95
+10202,99,Rest of Georgia,20.66
+01202,01,Hawaii/Guam,21.01
+05130,00,Idaho,20.09
+00952,16,"Chicago, IL",23.55
+00952,12,"East St. Louis, IL",22.54
+00952,15,"Suburban Chicago, IL",22.79
+00952,99,Rest of Illinois,21.4
+00630,00,Indiana,20.19
+05102,00,Iowa,19.82
+05202,00,Kansas,20.41
+15102,00,Kentucky,20.3
+00528,01,"New Orleans, LA",20.97
+00528,99,Rest of Louisiana,20.53
+14102,03,Southern Maine,20.35
+14102,99,Rest of Maine,20.12
+12302,01,"Baltimore/Surr. Cntys, MD",21.87
+12302,99,Rest of Maryland,20.99
+14202,01,Metropolitan Boston,21.64
+14202,99,Rest of Massachusetts,21.07
+00953,01,"Detroit, MI",23.19
+00953,99,Rest of Michigan,21.08
+00954,00,Minnesota,19.65
+00512,00,Mississippi,20.44
+05302,02,"Metropolitan Kansas City, MO",21.36
+05302,01,"Metropolitan St Louis, MO",21.08
+05302,99,Rest of Missouri,20.82
+03202,01,Montana,20.84
+05402,00,Nebraska,19.54
+01302,00,Nevada,21.45
+14302,40,New Hampshire,20.54
+12402,01,Northern NJ,22.6
+12402,99,Rest of New Jersey,22.05
+04202,05,New Mexico,21
+13202,01,"Manhattan, NY",23.07
+13202,02,"NYC Suburbs/Long I., NY",23.26
+13202,03,"Poughkpsie/N NYC Suburbs, NY",21.36
+13292,04,"Queens, NY",23.13
+13282,99,Rest of New York,20
+11502,00,North Carolina,20.31
+03302,01,North Dakota,20.03
+15202,00,Ohio,21.37
+04302,00,Oklahoma,20.23
+00835,01,"Portland, OR",20.29
+00835,99,Rest of Oregon,20.1
+12502,01,"Metropolitan Philadelphia, PA",22.69
+12502,99,Rest of Pennsylvania,21.12
+09202,20,Puerto Rico,19.22
+14402,01,Rhode Island,21.65
+11202,01,South Carolina,19.95
+03402,02,South Dakota,19.97
+10302,35,Tennessee,20.08
+04402,31,"Austin, TX",20.77
+04402,20,"Beaumont, TX",21.12
+04402,09,"Brazoria, TX",21.32
+04402,11,"Dallas, TX",21.14
+04402,28,"Fort Worth, TX",20.94
+04402,15,"Galveston, TX",21.19
+04402,18,"Houston, TX",21.47
+04402,99,Rest of Texas,20.77
+03502,09,Utah,21.03
+14502,50,Vermont,20.16
+11302,00,Virginia,20.41
+09202,50,Virgin Islands,21.05
+00836,02,"Seattle (King Cnty), WA",21.24
+00836,99,Rest of Washington,20.59
+11402,16,West Virginia,21.33
+00951,00,Wisconsin,19.98
+03602,21,Wyoming,21.15
