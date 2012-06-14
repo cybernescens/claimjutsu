@@ -33,7 +33,7 @@ namespace HealthBus.CmsFss
 						.Instance(DocumentStore),
 					Component.For<IDocumentSession>()
 						.UsingFactoryMethod(() => CurrentSession)
-						.LifeStyle.PerWebRequest,
+						.LifeStyle.PerWcfOperation(),
 					Component.For<ICmsFssNonFacility2011d>()
 						.Named("HealthBus.CmsFss.CmsFssNonFacility2011d")
 						.ImplementedBy<CmsFssNonFacility2011d>(),

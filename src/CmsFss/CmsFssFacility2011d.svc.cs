@@ -9,7 +9,7 @@ using Raven.Client;
 
 namespace HealthBus.CmsFss
 {
-	[AspNetCompatibilityRequirements(RequirementsMode = AspNetCompatibilityRequirementsMode.Allowed)]
+	[AspNetCompatibilityRequirements(RequirementsMode = AspNetCompatibilityRequirementsMode.Required)]
 	public class CmsFssFacility2011d : ICmsFssFacility2011d
 	{
 		public IDocumentSession Session { get; set; }
