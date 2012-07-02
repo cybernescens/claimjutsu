@@ -2,6 +2,7 @@
 using System.ServiceModel.Activation;
 using System.Web;
 using System.Web.Routing;
+using Castle.Core;
 using Castle.Facilities.FactorySupport;
 using Castle.Facilities.WcfIntegration;
 using Castle.Facilities.WcfIntegration.Rest;
@@ -33,19 +34,23 @@ namespace HealthBus.CmsFss
 						.Instance(DocumentStore),
 					Component.For<IDocumentSession>()
 						.UsingFactoryMethod(() => CurrentSession)
-						.LifeStyle.PerWcfOperation(),
+						.LifeStyle.PerWebRequest,
 					Component.For<ICmsFssNonFacility2011d>()
 						.Named("HealthBus.CmsFss.CmsFssNonFacility2011d")
-						.ImplementedBy<CmsFssNonFacility2011d>(),
+						.ImplementedBy<CmsFssNonFacility2011d>()
+						.LifeStyle.Is(LifestyleType.Transient),
 					Component.For<ICmsFssFacility2011d>()
 						.Named("HealthBus.CmsFss.CmsFssFacility2011d")
-						.ImplementedBy <CmsFssFacility2011d>(),
+						.ImplementedBy <CmsFssFacility2011d>()
+						.LifeStyle.Is(LifestyleType.Transient),
 					Component.For<ICmsFssNonFacility2012a>()
 						.Named("HealthBus.CmsFss.CmsFssNonFacility2012a")
-						.ImplementedBy<CmsFssNonFacility2012a>(),
+						.ImplementedBy<CmsFssNonFacility2012a>()
+						.LifeStyle.Is(LifestyleType.Transient),
 					Component.For<ICmsFssFacility2012a>()
 						.Named("HealthBus.CmsFss.CmsFssFacility2012a")
-						.ImplementedBy<CmsFssFacility2012a>());
+						.ImplementedBy<CmsFssFacility2012a>()
+						.LifeStyle.Is(LifestyleType.Transient));
 
 			BeginRequest += (_, __) => { CurrentSession = DocumentStore.OpenSession(); };
 			EndRequest += (_, __) =>

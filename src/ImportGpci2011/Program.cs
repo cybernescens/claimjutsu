@@ -12,7 +12,7 @@ namespace HealthBus.ImportGpci2011
         static void Main(string[] args)
         {
             var engine = new FileHelperEngine<Gpci2011Record>();
-            var gpcis = engine.ReadFile("Files\\GPCI1.csv");
+            var gpcis = engine.ReadFile("Files\\GPCI11.csv");
 
             var engine2 = new FileHelperEngine<ZipToCarrier2011Record>();
             var zips = engine2.ReadFile("Files\\ZIP5_FINAL11_DEC.txt");
@@ -23,7 +23,11 @@ namespace HealthBus.ImportGpci2011
             var gpciDic = gpcis
                 .ToDictionary(x => toKey(x.Contractor, x.Locality));
 
-            var store = new DocumentStore {Url = "http://localhost:8080"};
+			var store = new DocumentStore
+			{
+				Url = "http://localhost:8080",
+			};
+
             store.Initialize();
 
 			using (var session = store.OpenSession())
